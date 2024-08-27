@@ -9,7 +9,6 @@ let password2 = document.getElementById("pass2-el")
 
 buttonEl.addEventListener("click",function(){
     
-  
     password1.value= generatePasword()
     password2.value= generatePasword()
     
