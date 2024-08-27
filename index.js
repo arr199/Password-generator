@@ -15,7 +15,6 @@ buttonEl.addEventListener("click",function(){
 })
 
 
-
 function generatePasword(){
     let password = ""
     for(let i = 0 ; i<15 ; i++){
